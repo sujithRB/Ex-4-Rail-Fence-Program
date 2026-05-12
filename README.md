@@ -1,6 +1,9 @@
 # Ex-4 Rail-Fence-Program
 
 # IMPLEMENTATION OF RAIL FENCE – ROW & COLUMN TRANSFORMATION TECHNIQUE
+### Name: SUJITH
+### Reg. no: 212224103003
+### Date: 11-05-2026
 
 # AIM:
 
